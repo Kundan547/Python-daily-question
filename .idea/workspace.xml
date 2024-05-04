@@ -1,0 +1,470 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ae40e733-0094-40b0-a826-9478ec0a19d4" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ArrayPrograms/array6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fact.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Fstring.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/Fun8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Global_variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/IsAlNum.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Istrip.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/Question1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/Question2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/Question3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/Question4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/Question5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ListPrograms/listTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop21.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop22.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop23.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Loops/Loop9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Multi_Values.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/Loops.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/p9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practise questions/range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/Project1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Projects/demo.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTurtol/Str4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PythonTurtol/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Random.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Replace.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/String.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Strings/Str9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Variable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/andOp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/casting.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/emrTuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/find.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/join.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/list.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/listXtuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/name.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/str2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/swap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/unpack.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Loops/Loop5.py" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/emrTuple.py" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="2f0ieI6aHpq2TiamxOQ9T4b7D9W" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Docker.Dockerfile.executor": "Run",
+    "Python.Calculator.executor": "Run",
+    "Python.Fact.executor": "Run",
+    "Python.Fstring.executor": "Run",
+    "Python.Fun1.executor": "Run",
+    "Python.Fun2.executor": "Run",
+    "Python.Fun3.executor": "Run",
+    "Python.Fun4.executor": "Run",
+    "Python.Fun5.executor": "Run",
+    "Python.Fun6.executor": "Run",
+    "Python.Fun7.executor": "Run",
+    "Python.Fun8.executor": "Run",
+    "Python.Global_variable.executor": "Run",
+    "Python.Image.executor": "Run",
+    "Python.IsAlNum.executor": "Run",
+    "Python.Istrip.executor": "Run",
+    "Python.Loop1.executor": "Debug",
+    "Python.Loop10.executor": "Run",
+    "Python.Loop11.executor": "Run",
+    "Python.Loop12.executor": "Run",
+    "Python.Loop13.executor": "Run",
+    "Python.Loop14.executor": "Run",
+    "Python.Loop15.executor": "Debug",
+    "Python.Loop16.executor": "Run",
+    "Python.Loop17.executor": "Run",
+    "Python.Loop18.executor": "Run",
+    "Python.Loop19.executor": "Run",
+    "Python.Loop2.executor": "Debug",
+    "Python.Loop20.executor": "Run",
+    "Python.Loop21.executor": "Run",
+    "Python.Loop22.executor": "Run",
+    "Python.Loop23.executor": "Run",
+    "Python.Loop3.executor": "Run",
+    "Python.Loop4.executor": "Run",
+    "Python.Loop5.executor": "Run",
+    "Python.Loop6.executor": "Run",
+    "Python.Loop7.executor": "Run",
+    "Python.Loop8.executor": "Run",
+    "Python.Loop9.executor": "Run",
+    "Python.Loops.executor": "Run",
+    "Python.Main.executor": "Run",
+    "Python.Multi_Values.executor": "Run",
+    "Python.Project1.executor": "Run",
+    "Python.Question1.executor": "Run",
+    "Python.Question2.executor": "Run",
+    "Python.Question3.executor": "Run",
+    "Python.Question4.executor": "Run",
+    "Python.Question5.executor": "Run",
+    "Python.Random.executor": "Run",
+    "Python.Replace.executor": "Run",
+    "Python.Str10.executor": "Run",
+    "Python.Str11.executor": "Run",
+    "Python.Str12.executor": "Run",
+    "Python.Str13.executor": "Run",
+    "Python.Str3.executor": "Run",
+    "Python.Str4.executor": "Run",
+    "Python.Str5.executor": "Run",
+    "Python.Str6.executor": "Run",
+    "Python.Str7.executor": "Run",
+    "Python.Str8.executor": "Run",
+    "Python.Str9.executor": "Run",
+    "Python.String.executor": "Run",
+    "Python.Test.executor": "Run",
+    "Python.Test1.executor": "Run",
+    "Python.Test2.executor": "Run",
+    "Python.Test3.executor": "Run",
+    "Python.Test5.executor": "Run",
+    "Python.Variable.executor": "Run",
+    "Python.__init__.executor": "Run",
+    "Python.__main__.executor": "Run",
+    "Python.andOp.executor": "Run",
+    "Python.app.executor": "Run",
+    "Python.array1.executor": "Run",
+    "Python.array2.executor": "Run",
+    "Python.array3.executor": "Run",
+    "Python.array4.executor": "Run",
+    "Python.array5.executor": "Run",
+    "Python.array6.executor": "Run",
+    "Python.casting.executor": "Run",
+    "Python.emrTuple.executor": "Run",
+    "Python.find.executor": "Run",
+    "Python.join.executor": "Run",
+    "Python.list.executor": "Run",
+    "Python.listTest.executor": "Run",
+    "Python.listXtuple.executor": "Run",
+    "Python.name.executor": "Run",
+    "Python.p1.executor": "Run",
+    "Python.p10.executor": "Run",
+    "Python.p11.executor": "Run",
+    "Python.p12.executor": "Run",
+    "Python.p13.executor": "Run",
+    "Python.p2.executor": "Run",
+    "Python.p3.executor": "Run",
+    "Python.p4.executor": "Run",
+    "Python.p5.executor": "Run",
+    "Python.p6.executor": "Run",
+    "Python.p7.executor": "Run",
+    "Python.p8.executor": "Run",
+    "Python.p9.executor": "Run",
+    "Python.range.executor": "Debug",
+    "Python.str1.executor": "Run",
+    "Python.str2.executor": "Run",
+    "Python.swap.executor": "Run",
+    "Python.unpack.executor": "Run",
+    "Python.upper.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "settings.editor.selected.configurable": "Docker"
+  }
+}]]></component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="CompoundRunConfigurationType" />
+        <option value="ShConfigurationType" />
+        <option value="tests" />
+      </set>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Calculator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Calculator.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Loop19" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops/Loop19.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Loop3" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops/Loop3.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Loop5" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Loops" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Loops/Loop5.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__main__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/.venv/Lib/site-packages/pip" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/.venv/Lib/site-packages/pip/__main__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.Loop19" />
+        <item itemvalue="Python.__main__" />
+        <item itemvalue="Python.Loop5" />
+        <item itemvalue="Python.Loop3" />
+        <item itemvalue="Python.Calculator" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-0509580d9d50-746f403e7f0c-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.14494.241" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ae40e733-0094-40b0-a826-9478ec0a19d4" name="Changes" comment="" />
+      <created>1712944489939</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712944489939</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1713629232334" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="user">
+                    <value>
+                      <list>
+                        <option value="*" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
